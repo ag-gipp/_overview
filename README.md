@@ -1,6 +1,6 @@
 # How to find the relevant repository
 
-This file provides an overview on the repositories used for research purposes.
+Overview about the software projects on GitHub provided by the AG Gipp members. See http://isg.uni.kn for gerneral information about AG Gipp. 
 
 ## Math
 
@@ -25,11 +25,15 @@ This file provides an overview on the repositories used for research purposes.
 ### Links to tools from others
 * https://github.com/moisko/mathml
 * https://github.com/michal-ruzicka/MathMLCan
+Reponsible for the section Math is @physikerwelt.
+
 ## MediaWiki
 * [citolytics](https://github.com/wikimedia/citolytics)
 * [wiki-artikel-analyse](https://github.com/ag-gipp/wiki-artikel-analyse) JAVA
 * [WikidataListGenerator](https://github.com/physikerwelt/WikidataListGenerator) Creates a list of Page titles and their corresponding Wikidata Items  JAVA
 * [Flink-WikipediaEditCount](https://github.com/physikerwelt/Flink-WikipediaEditCount) Apache Flink program for couting users' editcounts in Wikipedia page-history xml dumps   JAVA
+
+Reponsible for this listing is @physikerwelt. Please contact this user directly if you have any questions on these links.
 ### Links to tools from others
 * https://github.com/konrad/JATS-to-Mediawiki
 ## References
