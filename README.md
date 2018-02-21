@@ -23,6 +23,7 @@
 ### Links to tools from others
 * https://github.com/moisko/mathml
 * https://github.com/michal-ruzicka/MathMLCan
+
 Reponsible for the section Math is [Moritz Schubotz](https://github.com/physikerwelt).
 
 ## MediaWiki
@@ -30,6 +31,7 @@ Reponsible for the section Math is [Moritz Schubotz](https://github.com/physiker
 * [wiki-artikel-analyse](https://github.com/ag-gipp/wiki-artikel-analyse) JAVA
 * [WikidataListGenerator](https://github.com/physikerwelt/WikidataListGenerator) Creates a list of Page titles and their corresponding Wikidata Items  JAVA
 * [Flink-WikipediaEditCount](https://github.com/physikerwelt/Flink-WikipediaEditCount) Apache Flink program for couting users' editcounts in Wikipedia page-history xml dumps   JAVA
+
 Reponsible for this listing is [Moritz Schubotz](https://github.com/physikerwelt). Please contact this user directly if you have any questions on these links.
 ### Links to tools from others
 * https://github.com/konrad/JATS-to-Mediawiki
