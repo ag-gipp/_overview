@@ -33,12 +33,14 @@ Reponsible for the section Math is @physikerwelt.
 * [WikidataListGenerator](https://github.com/physikerwelt/WikidataListGenerator) Creates a list of Page titles and their corresponding Wikidata Items  JAVA
 * [Flink-WikipediaEditCount](https://github.com/physikerwelt/Flink-WikipediaEditCount) Apache Flink program for couting users' editcounts in Wikipedia page-history xml dumps   JAVA
 
+## Plagiarism Detection ##
+* [Citeplag](https//:github.com/ag-gipp/citeplag) JAVA / PHP
+* [ImagePlag](https//:github.com/ag-gipp/imageplag) Python
+
 Reponsible for this listing is @physikerwelt. Please contact this user directly if you have any questions on these links.
 ### Links to tools from others
 * https://github.com/konrad/JATS-to-Mediawiki
 ## References
-
-* [Citeplag](https//:github.com/ag-gipp/citeplag-dev-backend) JAVA
 * [DaTeXML](https://github.com/physikerwelt/DaTeXML) script to convert folders of TeX files to NTCIR compatible XHTML files 
 
 ## Other tools
