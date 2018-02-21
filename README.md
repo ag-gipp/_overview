@@ -32,22 +32,21 @@ Reponsible for the section Math is @physikerwelt.
 * [wiki-artikel-analyse](https://github.com/ag-gipp/wiki-artikel-analyse) JAVA
 * [WikidataListGenerator](https://github.com/physikerwelt/WikidataListGenerator) Creates a list of Page titles and their corresponding Wikidata Items  JAVA
 * [Flink-WikipediaEditCount](https://github.com/physikerwelt/Flink-WikipediaEditCount) Apache Flink program for couting users' editcounts in Wikipedia page-history xml dumps   JAVA
+Reponsible for this listing is @physikerwelt. Please contact this user directly if you have any questions on these links.
+### Links to tools from others
+* https://github.com/konrad/JATS-to-Mediawiki
 
 ## Plagiarism Detection ##
 * [Citeplag](https://github.com/ag-gipp/citeplag) JAVA / PHP
 * [ImagePlag](https://github.com/ag-gipp/imageplag) Python
-
-Reponsible for this listing is @physikerwelt. Please contact this user directly if you have any questions on these links.
-### Links to tools from others
-* https://github.com/konrad/JATS-to-Mediawiki
-## References
-* [DaTeXML](https://github.com/physikerwelt/DaTeXML) script to convert folders of TeX files to NTCIR compatible XHTML files 
+Reponsible for this listing is @nmeuschke. Please contact this user directly if you have any questions on these links.
 
 ## Other tools
+* [GRESPA](https://github.com/ag-gipp/grespa) Python / HTML / JS
+
 ### XML processing
   * [xstlprocJ](https://github.com/physikerwelt/xstlprocJ) commandline client for xstl 2
   * [utf8tex](https://github.com/physikerwelt/utf8tex) Collection of UTF-8 to TeX mappings 
-  
 
-
- 
+## References
+* [DaTeXML](https://github.com/physikerwelt/DaTeXML) script to convert folders of TeX files to NTCIR compatible XHTML files
