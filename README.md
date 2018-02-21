@@ -1,4 +1,4 @@
-# Repositories by Research Area
+# Project Repositories by Research Area
 
 ## Math
 
@@ -23,24 +23,25 @@
 ### Links to tools from others
 * https://github.com/moisko/mathml
 * https://github.com/michal-ruzicka/MathMLCan
-Reponsible for the section Math is @physikerwelt.
+Reponsible for the section Math is [Moritz Schubotz](https://github.com/physikerwelt).
 
 ## MediaWiki
 * [citolytics](https://github.com/wikimedia/citolytics)
 * [wiki-artikel-analyse](https://github.com/ag-gipp/wiki-artikel-analyse) JAVA
 * [WikidataListGenerator](https://github.com/physikerwelt/WikidataListGenerator) Creates a list of Page titles and their corresponding Wikidata Items  JAVA
 * [Flink-WikipediaEditCount](https://github.com/physikerwelt/Flink-WikipediaEditCount) Apache Flink program for couting users' editcounts in Wikipedia page-history xml dumps   JAVA
-Reponsible for this listing is @physikerwelt. Please contact this user directly if you have any questions on these links.
+Reponsible for this listing is [Moritz Schubotz](https://github.com/physikerwelt). Please contact this user directly if you have any questions on these links.
 ### Links to tools from others
 * https://github.com/konrad/JATS-to-Mediawiki
 
 ## Plagiarism Detection ##
-* [Citeplag](https://github.com/ag-gipp/citeplag) JAVA / PHP
-* [ImagePlag](https://github.com/ag-gipp/imageplag) Python
-Reponsible for this listing is @nmeuschke. Please contact this user directly if you have any questions on these links.
+* [Citeplag](https://github.com/ag-gipp/citeplag) JAVA / PHP - Citation-based Plagiarism Detection System
+* [ImagePlag](https://github.com/ag-gipp/imageplag) Python - Image-based Plagiarism Detection System
+
+Reponsible for this listing is [Norman Meuschke](https://github.com/nmeuschke). Please contact this user directly if you have any questions on these links.
 
 ## Other tools
-* [GRESPA](https://github.com/ag-gipp/grespa) Python / HTML / JS
+* [GRESPA](https://github.com/ag-gipp/grespa) Python / HTML / JS - Google Research Performance Analyzer: tool to obtain and anlyze data from Google Scholar 
 
 ### XML processing
   * [xstlprocJ](https://github.com/physikerwelt/xstlprocJ) commandline client for xstl 2
