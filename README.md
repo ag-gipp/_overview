@@ -40,6 +40,12 @@ Reponsible for this listing is [Moritz Schubotz](https://github.com/physikerwelt
 
 Reponsible for this listing is [Norman Meuschke](https://github.com/nmeuschke). Please contact this user directly if you have any questions on these links.
 
+## Recommender Systems ##
+* [Docear](https://github.com/Docear/) JAVA - CAcademic Literature Suite
+* [Mr-DLib](https://github.com/Mr-DLib) JAVA / PHP - Mr. DLib is a machine readable digital library that provides literature recommendations as a service.
+
+Reponsible for this listing is [Joeran Beel](https://github.com/Joeran). Please contact this user directly if you have any questions on these links.
+
 ## Other tools
 * [GRESPA](https://github.com/ag-gipp/grespa) Python / HTML / JS - Google Research Performance Analyzer: tool to obtain and anlyze data from Google Scholar 
 
