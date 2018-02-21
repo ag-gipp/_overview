@@ -1,6 +1,4 @@
-# How to find the relevant repository
-
-Overview about the software projects on GitHub provided by the AG Gipp members. See http://isg.uni.kn for gerneral information about AG Gipp. 
+# Repositories by Research Area
 
 ## Math
 
