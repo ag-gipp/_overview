@@ -23,6 +23,8 @@
 ### Links to tools from others
 * https://github.com/moisko/mathml
 * https://github.com/michal-ruzicka/MathMLCan
+### Open Student Projects
+* [Formula Concept Discovery and Recognition using Wikidata](https://github.com/ag-gipp/ag-gipp/blob/master/open-projects/Formula%20Discovery%20and%20Recognition.pdf)
 
 Reponsible for the section Math is [Moritz Schubotz](https://github.com/physikerwelt).
 
